@@ -6,7 +6,7 @@
     <Version>1.0.0-rc2</Version>
     <Authors>me@kroniak.net</Authors>
     <Description>C# services and models classes to Ecwid API v1 and v3</Description>
-    <PackageLicenseFile>LICENSE</PackageLicenseExpression>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageProjectUrl>https://github.com/kroniak/extensions-ecwid</PackageProjectUrl>
     <PackageIconUrl>https://dj925myfyz5v.cloudfront.net/favicon_v2.ico</PackageIconUrl>
     <RepositoryUrl>https://github.com/kroniak/extensions-ecwid.git</RepositoryUrl>
@@ -26,7 +26,7 @@
    
    
   <ItemGroup>
-    <None Include="..\..\..\LICENSE" Pack="true" PackagePath=""/>
+    <None Include="..\..\LICENSE" Pack="true" PackagePath=""/>
   </ItemGroup>
 
   <ItemGroup>
